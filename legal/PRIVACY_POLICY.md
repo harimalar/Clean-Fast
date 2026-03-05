@@ -21,4 +21,4 @@ You can remove local app data from Settings > Danger Zone > Clear All Data.
 ClearFast is not intended for users under 18.
 
 ## Contact
-Support and policy requests: https://github.com/harimalar/Clean-Fast/issues
+Support and policy requests: rajhari@gmail.com
