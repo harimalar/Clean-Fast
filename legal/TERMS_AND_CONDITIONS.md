@@ -21,4 +21,4 @@ We may update, improve, or remove features to maintain quality, security, or leg
 To the maximum extent permitted by law, ClearFast is not liable for harm, losses, or outcomes resulting from fasting decisions, misuse, or ignoring medical advice.
 
 ## Contact
-Terms questions: https://github.com/harimalar/Clean-Fast/issues
+Terms questions: rajhari@gmail.com
