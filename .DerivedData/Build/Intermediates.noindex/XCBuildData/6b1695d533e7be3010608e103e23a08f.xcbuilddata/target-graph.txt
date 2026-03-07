@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'ClearFast' in project 'ClearFast'
+➜ Explicit dependency on target 'ClearFastWidget' in project 'ClearFast'
+Target 'ClearFastWidget' in project 'ClearFast' (no dependencies)

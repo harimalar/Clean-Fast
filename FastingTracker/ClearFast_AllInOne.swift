@@ -122,7 +122,7 @@ enum ProPlan: String, CaseIterable, Identifiable {
 
     var id: String { rawValue }
 
-    var title: String { "Pro Unlock" }
+    var title: String { "ClearFast Pro" }
     var priceText: String { "$4.99 one-time" }
     var badge: String? { "Lifetime Access" }
 }
@@ -329,11 +329,12 @@ final class SubscriptionManager: ObservableObject {
     }
 
     func purchaseSelectedPlan() {
-        tier = .free
+        tier = .pro
         save()
     }
 
     func restorePurchases() {
+        // Logic to be replaced by actual StoreKit restoration
         tier = .free
         save()
     }
@@ -358,8 +359,6 @@ final class SubscriptionManager: ObservableObject {
            let persistedTier = AppTier(rawValue: rawTier) {
             tier = persistedTier
         }
-
-        tier = .free
 
         if let rawPlan = UserDefaults.standard.string(forKey: planKey),
            let persistedPlan = ProPlan(rawValue: rawPlan) {
@@ -4394,7 +4393,7 @@ struct TermsConditionsView: View {
 
                     legalSection(title: "Educational Use Only", bodyText: "CleanFast Pro provides educational wellness guidance. It is not a substitute for professional medical advice.")
                     legalSection(title: "User Responsibility", bodyText: "You are responsible for your fasting decisions, hydration, nutrition, and medical safety. Use the app only in ways appropriate for your health status.")
-                    legalSection(title: "Pro Access", bodyText: "Pro unlock is a one-time purchase of $4.99 for eligible premium features on supported versions.")
+                    legalSection(title: "Pro Access", bodyText: "Pro unlock is a one-time purchase of $4.99 for eligible premium features.")
                     legalSection(title: "Liability Limitation", bodyText: "To the maximum extent permitted by law, CleanFast Pro is not liable for outcomes resulting from misuse, unsafe fasting, or ignoring medical guidance.")
                 }
                 .padding(16)
@@ -4514,11 +4513,11 @@ struct PaywallView: View {
                         )
 
                         planSelector
-                        PrimaryButton(title: "Unlock Pro - $4.99", tone: .pro) { }
-                            .disabled(true)
-                            .opacity(0.7)
+                        PrimaryButton(title: "Unlock Pro - $4.99", tone: .pro) {
+                            subscription.purchaseSelectedPlan()
+                        }
 
-                        Text("Pro purchase activation is pending App Store Connect IAP setup.")
+                        Text("One-time payment. Full access forever. No ads.")
                             .font(.system(size: 11, weight: .semibold, design: .rounded))
                             .foregroundStyle(AppColors.textSecondary.opacity(0.9))
                             .padding(.top, 4)

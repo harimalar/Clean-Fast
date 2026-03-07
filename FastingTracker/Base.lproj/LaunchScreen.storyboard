@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="14" translatesAutoresizingMaskIntoConstraints="NO" id="vNf-v0-i7Z">
+                                <rect key="frame" x="70" y="287" width="253" height="278"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="LaunchIcon" translatesAutoresizingMaskIntoConstraints="NO" id="K8x-NR-T5Q">
+                                        <rect key="frame" x="46.666666666666657" y="0.0" width="160" height="160"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="160" id="nUa-oM-vbR"/>
+                                            <constraint firstAttribute="height" constant="160" id="bWv-7k-3vT"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" text="CleanFast Pro" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dRb-kN-8r4">
+                                        <rect key="frame" x="7" y="174" width="239" height="46"/>
+                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="38"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" text="One fast at a time, one better day." textAlignment="center" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NBG-3W-wgW">
+                                        <rect key="frame" x="22" y="234" width="209" height="44"/>
+                                        <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
+                                        <color key="textColor" red="0.84313726429999995" green="0.87843137979999998" blue="0.93725490569999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
+                        <color key="backgroundColor" red="0.04705882353" green="0.078431372549" blue="0.15686274509" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="vNf-v0-i7Z" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="2Xj-dC-v9O"/>
+                            <constraint firstItem="vNf-v0-i7Z" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="S5w-YA-RGh"/>
+                            <constraint firstItem="vNf-v0-i7Z" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Bcu-3y-fUS" secondAttribute="leading" constant="24" id="qDl-d3-f4V"/>
+                            <constraint firstItem="Bcu-3y-fUS" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="vNf-v0-i7Z" secondAttribute="trailing" constant="24" id="r3r-8j-xrp"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="LaunchIcon" width="1024" height="1024"/>
+    </resources>
+</document>

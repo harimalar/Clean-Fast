@@ -1,0 +1,1208 @@
+{
+  "source": "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/FastingTracker/ClearFast_AllInOne.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Pro",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 980
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get $4.99",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 1141
+        }
+      },
+      {
+        "comment": "",
+        "key": "CleanFast Pro",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1131
+        }
+      },
+      {
+        "comment": "",
+        "key": "One-time $4.99 unlock for advanced goals and export",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1134
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fast",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1176
+        }
+      },
+      {
+        "comment": "",
+        "key": "Progress",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Coach",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1182
+        }
+      },
+      {
+        "comment": "",
+        "key": "History",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1185
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 1189
+        }
+      },
+      {
+        "comment": "",
+        "key": "Finish this fast?",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 1277
+        }
+      },
+      {
+        "comment": "",
+        "key": "Complete Fast",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 1278
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mark as Ended Early",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 1281
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep Fasting",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 1284
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose how to end this session. Either option saves your fast to history.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1286
+        }
+      },
+      {
+        "comment": "",
+        "key": "CleanFast Pro",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1294
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elite fasting mode active",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1297
+        }
+      },
+      {
+        "comment": "",
+        "key": "Build your daily fasting momentum",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 1297
+        }
+      },
+      {
+        "comment": "",
+        "key": "Finish Fast",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 1337
+        }
+      },
+      {
+        "comment": "",
+        "key": "Electrolytes recommended",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1388
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hydration",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1378
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / %lld cups",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1381
+        }
+      },
+      {
+        "comment": "",
+        "key": "+1",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1411
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 1482
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 1492
+        }
+      },
+      {
+        "comment": "",
+        "key": "Session Time",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1545
+        }
+      },
+      {
+        "comment": "",
+        "key": "You can adjust start date and time anytime from the pickers on the Fast tab.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1533
+        }
+      },
+      {
+        "comment": "",
+        "key": "Started",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1521
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1557
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%% success",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1561
+        }
+      },
+      {
+        "comment": "",
+        "key": "Milestones",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 1599
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ready",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 1603
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 1603
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1632
+        }
+      },
+      {
+        "comment": "",
+        "key": "Coach",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1742
+        }
+      },
+      {
+        "comment": "",
+        "key": "Guidance, signals, hydration, and protocols.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1745
+        }
+      },
+      {
+        "comment": "",
+        "key": "Safety Guidance is free. Unlock Pro for full coaching tools.",
+        "location": {
+          "startingColumn": 88,
+          "startingLine": 1745
+        }
+      },
+      {
+        "comment": "",
+        "key": "Jump to Fast tab and begin your session.",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 1776
+        }
+      },
+      {
+        "comment": "",
+        "key": "Jump to Fast tab to view your live timer.",
+        "location": {
+          "startingColumn": 92,
+          "startingLine": 1776
+        }
+      },
+      {
+        "comment": "",
+        "key": "Safety Guidance",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Safety Guidance",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2078
+        }
+      },
+      {
+        "comment": "",
+        "key": "CleanFast Pro is an educational wellness app. It does not diagnose, treat, or replace professional care.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2081
+        }
+      },
+      {
+        "comment": "",
+        "key": "If symptoms feel unsafe, stop fasting and seek urgent medical care.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2084
+        }
+      },
+      {
+        "comment": "",
+        "key": "Metabolic Coach",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Current elapsed: %@h",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 2177
+        }
+      },
+      {
+        "comment": "",
+        "key": "No active fast. Start a session to unlock live coaching context.",
+        "location": {
+          "startingColumn": 112,
+          "startingLine": 2177
+        }
+      },
+      {
+        "comment": "",
+        "key": "Live Metabolic Snapshot",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2168
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2172
+        }
+      },
+      {
+        "comment": "",
+        "key": "Action: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2222
+        }
+      },
+      {
+        "comment": "",
+        "key": "CURRENT",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2211
+        }
+      },
+      {
+        "comment": "",
+        "key": "Extended Protocols",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2320
+        }
+      },
+      {
+        "comment": "",
+        "key": "Educational playbooks for 36h to 72h fasts. Safety checkpoints are mandatory.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2267
+        }
+      },
+      {
+        "comment": "",
+        "key": "Seek doctor guidance before prolonged fasting.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Extended Protocols",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2261
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refeed: %@",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2292
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlock Pro To Save Advanced Templates",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2302
+        }
+      },
+      {
+        "comment": "",
+        "key": "One-time $4.99 unlock for full advanced protocol tools and exports.",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2305
+        }
+      },
+      {
+        "comment": "",
+        "key": "Body Signals",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2483
+        }
+      },
+      {
+        "comment": "",
+        "key": "Body Signals Check-In",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2391
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log symptoms to get immediate, plain-English guidance.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2399
+        }
+      },
+      {
+        "comment": "",
+        "key": "Current fast: %@h elapsed",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 2395
+        }
+      },
+      {
+        "comment": "",
+        "key": "No active fast",
+        "location": {
+          "startingColumn": 117,
+          "startingLine": 2395
+        }
+      },
+      {
+        "comment": "",
+        "key": "Symptoms",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2407
+        }
+      },
+      {
+        "comment": "",
+        "key": "How You Feel",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2443
+        }
+      },
+      {
+        "comment": "",
+        "key": "Suggested Action",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2454
+        }
+      },
+      {
+        "comment": "",
+        "key": "Medical Disclaimer",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2469
+        }
+      },
+      {
+        "comment": "",
+        "key": "Body Signals is educational guidance only and not medical advice. If symptoms feel unsafe, stop fasting and seek medical care.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2472
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2497
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hydration",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2609
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hydration & Electrolytes",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2534
+        }
+      },
+      {
+        "comment": "",
+        "key": "Goal: %lld cups for this fasting window",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2538
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / %lld cups",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2555
+        }
+      },
+      {
+        "comment": "",
+        "key": "Important",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2595
+        }
+      },
+      {
+        "comment": "",
+        "key": "This is educational guidance. If symptoms are severe, stop fasting and seek medical care.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2598
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 2616
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refeed Guide",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2723
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refeed Guide",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2679
+        }
+      },
+      {
+        "comment": "",
+        "key": "Current profile: %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2682
+        }
+      },
+      {
+        "comment": "",
+        "key": "How you break a fast is as important as how you run it.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2685
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recovery Check",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2709
+        }
+      },
+      {
+        "comment": "",
+        "key": "If you feel dizzy, nauseated, or shaky after refeed, slow intake and consider medical guidance.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2712
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fasting Benefits",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2813
+        }
+      },
+      {
+        "comment": "",
+        "key": "Estimated timeline only",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2785
+        }
+      },
+      {
+        "comment": "",
+        "key": "Benefits vary by person, sleep, stress, and health status. This is educational, not medical advice.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2798
+        }
+      },
+      {
+        "comment": "",
+        "key": "Performance Snapshot",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2931
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last 7 days",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2934
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2940
+        }
+      },
+      {
+        "comment": "",
+        "key": "SUCCESS",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2943
+        }
+      },
+      {
+        "comment": "",
+        "key": "7-Day Consistency",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2970
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2974
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2985
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pro Performance Lab",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3033
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlock Pro Insights",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 3084
+        }
+      },
+      {
+        "comment": "",
+        "key": "Heatmaps, trends, and predictive coaching",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 3087
+        }
+      },
+      {
+        "comment": "",
+        "key": "Streak Roadmap",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3113
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldd / %lldd",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export your complete fasting history to CSV for spreadsheet analysis.",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 3344
+        }
+      },
+      {
+        "comment": "",
+        "key": "CSV Export",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 3337
+        }
+      },
+      {
+        "comment": "",
+        "key": "Free plan shows your latest 10 entries.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3449
+        }
+      },
+      {
+        "comment": "",
+        "key": "No entries yet. Complete your first fast to start building history.",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 3434
+        }
+      },
+      {
+        "comment": "",
+        "key": "No %@ sessions yet.",
+        "location": {
+          "startingColumn": 115,
+          "startingLine": 3434
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fasting Sessions",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3383
+        }
+      },
+      {
+        "comment": "",
+        "key": "Goal achieved. Strong consistency.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 3563
+        }
+      },
+      {
+        "comment": "",
+        "key": "Session ended early. Keep building momentum.",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 3563
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ - %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3524
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 3683
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 3690
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pro Access",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3914
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pro Access",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 3893
+        }
+      },
+      {
+        "comment": "",
+        "key": "CleanFast Pro is a one-time purchase.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 3896
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pro is active on this device.",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 3899
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlock once for $4.99 to enable advanced coaching, goals, and export tools.",
+        "location": {
+          "startingColumn": 89,
+          "startingLine": 3899
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3993
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 3945
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose how fasting alerts work.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 3948
+        }
+      },
+      {
+        "comment": "",
+        "key": "Requesting permission...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 3982
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sync & Backup",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 4060
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sync & Backup",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4035
+        }
+      },
+      {
+        "comment": "",
+        "key": "iCloud sync is active for goals and history.",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 4038
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cross-device sync and advanced backup are part of Pro.",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 4038
+        }
+      },
+      {
+        "comment": "",
+        "key": "Backup",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4046
+        }
+      },
+      {
+        "comment": "",
+        "key": "JSON backup export is available in the next update path.",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 4049
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlock Pro to enable full backup/export features.",
+        "location": {
+          "startingColumn": 116,
+          "startingLine": 4049
+        }
+      },
+      {
+        "comment": "",
+        "key": "Danger Zone",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 4096
+        }
+      },
+      {
+        "comment": "",
+        "key": "Danger Zone",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4078
+        }
+      },
+      {
+        "comment": "",
+        "key": "Permanent actions. Use with caution.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4081
+        }
+      },
+      {
+        "comment": "",
+        "key": "Themes",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 4129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Theme Studio",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick the style that fits your fasting routine. Selection applies instantly.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Legal & Safety",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 4224
+        }
+      },
+      {
+        "comment": "",
+        "key": "Legal & Safety Center",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4187
+        }
+      },
+      {
+        "comment": "",
+        "key": "Review CleanFast Pro medical safety guidance, privacy policy, and terms before using advanced fasting protocols.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4191
+        }
+      },
+      {
+        "comment": "",
+        "key": "Seek doctor advice before starting prolonged fasts.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4195
+        }
+      },
+      {
+        "comment": "",
+        "key": "Medical Safety",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 4309
+        }
+      },
+      {
+        "comment": "",
+        "key": "Medical Safety Notice",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4277
+        }
+      },
+      {
+        "comment": "",
+        "key": "CleanFast Pro is an educational wellness app. It is not a medical device and does not provide diagnosis or treatment.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4281
+        }
+      },
+      {
+        "comment": "",
+        "key": "Always consult a licensed physician before changing your fasting routine.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4285
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy Policy",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 4356
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy Policy",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4339
+        }
+      },
+      {
+        "comment": "",
+        "key": "Effective date: March 4, 2026",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4342
+        }
+      },
+      {
+        "comment": "",
+        "key": "Terms",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 4403
+        }
+      },
+      {
+        "comment": "",
+        "key": "Terms & Conditions",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4386
+        }
+      },
+      {
+        "comment": "",
+        "key": "Effective date: March 4, 2026",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4389
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 4460
+        }
+      },
+      {
+        "comment": "",
+        "key": "About CleanFast Pro",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4433
+        }
+      },
+      {
+        "comment": "",
+        "key": "Independent fasting app by Malar Hari.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4437
+        }
+      },
+      {
+        "comment": "",
+        "key": "Premium experience, simple guidance, and long-term trust.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 4441
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pro purchase activation is pending App Store Connect IAP setup.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 4521
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 4533
+        }
+      },
+      {
+        "comment": "",
+        "key": "Train like an athlete. Track like an analyst.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 4554
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pro is built for users who want discipline, precision, and long-term fasting consistency.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 4558
+        }
+      }
+    ]
+  },
+  "version": 1
+}

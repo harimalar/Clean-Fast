@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/FastingTracker/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLaunchIcon</string>
+			<key>relativePath</key>
+			<string>./LaunchIcon.imageset</string>
+			<key>swiftSymbol</key>
+			<string>launchIcon</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

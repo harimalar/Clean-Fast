@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>F9DFB2C6-7E6B-4C1F-9998-D3CE665EFBD5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9DFB2C6-7E6B-4C1F-9998-D3CE665EFBD5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ClearFast project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ClearFast</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ClearFast with scheme ClearFast and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>794379237.302248</real>
+			<key>timeStoppedRecording</key>
+			<real>794379238.97406495</real>
+			<key>title</key>
+			<string>Building project ClearFast with scheme ClearFast and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F9DFB2C6-7E6B-4C1F-9998-D3CE665EFBD5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

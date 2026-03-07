@@ -1,0 +1,128 @@
+{
+  "source": "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/ClearFastWidget/ClearFastWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CleanFast Pro",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Track your fasting progress at a glance.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ left",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap to start fast",
+        "location": {
+          "startingColumn": 85,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "LIVE",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "READY",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "elapsed",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "ready",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ left • Ends %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start your next fast",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 203
+        }
+      },
+      {
+        "comment": "",
+        "key": "Goal %lldh",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open CleanFast Pro to begin",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 211
+        }
+      },
+      {
+        "comment": "",
+        "key": "CleanFast Pro",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 174
+        }
+      },
+      {
+        "comment": "",
+        "key": "LIVE",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 180
+        }
+      },
+      {
+        "comment": "",
+        "key": "READY",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 180
+        }
+      }
+    ]
+  },
+  "version": 1
+}

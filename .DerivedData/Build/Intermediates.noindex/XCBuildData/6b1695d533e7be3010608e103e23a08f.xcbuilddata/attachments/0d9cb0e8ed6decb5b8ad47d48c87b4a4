@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget-primary.dia",
+    "emit-module-dependencies" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget-primary-emit-module.dia",
+    "pch" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget-primary.swiftdeps"
+  },
+  "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/ClearFastWidget/ClearFastWidget.swift" : {
+    "const-values" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget.swiftconstvalues",
+    "dependencies" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget.d",
+    "diagnostics" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget.dia",
+    "index-unit-output-path" : "/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget.o",
+    "llvm-bc" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget.bc",
+    "object" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget.o",
+    "swift-dependencies" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget.swiftdeps",
+    "swiftmodule" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidget~partial.swiftmodule"
+  },
+  "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/ClearFastWidget/ClearFastWidgetBundle.swift" : {
+    "const-values" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidgetBundle.swiftconstvalues",
+    "dependencies" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidgetBundle.d",
+    "diagnostics" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidgetBundle.dia",
+    "index-unit-output-path" : "/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidgetBundle.o",
+    "llvm-bc" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidgetBundle.bc",
+    "object" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidgetBundle.o",
+    "swift-dependencies" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidgetBundle.swiftdeps",
+    "swiftmodule" : "/Users/harirajzgopal/Desktop/Malar xCode/Active Projects/ClearFast/Fasting/FastingTracker/.DerivedData/Build/Intermediates.noindex/ClearFast.build/Debug-iphonesimulator/ClearFastWidget.build/Objects-normal/x86_64/ClearFastWidgetBundle~partial.swiftmodule"
+  }
+}

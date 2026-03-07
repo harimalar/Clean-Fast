@@ -1,0 +1,1 @@
+@rpath/ClearFastWidget.debug.dylib
